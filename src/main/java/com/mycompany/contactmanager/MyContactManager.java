@@ -26,6 +26,4 @@ public class MyContactManager {
         contactList = null;
     }
     
-    // This is the new comment line I added
-    
 }
