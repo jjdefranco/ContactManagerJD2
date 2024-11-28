@@ -16,5 +16,7 @@ public class ContactManager {
         // A comment made in Netbeans
 
         // A comment made in Github
+        
+        // A comment made on the Friend branch
     }
 }
