@@ -12,5 +12,7 @@ public class ContactManager {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        
+        // A comment made in Netbeans 
     }
 }
